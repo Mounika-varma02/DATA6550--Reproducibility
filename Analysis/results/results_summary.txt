@@ -1,1 +1,11 @@
+Results Summary:
 
+The reproduced results closely match the original study.
+
+Key findings:
+- Climate change discussions show more negative sentiment than global warming
+- The term "climate change" became dominant after 2013
+- The percentage of climate-related posts declined over time
+- Strong correlation observed between Reddit discussions and Google Trends
+
+All figures generated in the notebook align with the original paper.
