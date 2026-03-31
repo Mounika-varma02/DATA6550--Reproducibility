@@ -1,1 +1,5 @@
+The original dataset used in this project is accessed directly from Google Drive links provided in the authors' GitHub repository.
 
+Due to large size (billions of Reddit posts), the dataset is not stored locally in this repository.
+
+Data is loaded dynamically using file IDs in the notebook.
